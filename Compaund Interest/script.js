@@ -1,7 +1,7 @@
 const context = document.getElementById("data-set").getContext("2d")
 let line = new Chart(context, {})
 
-//Values from the form
+//Values from the formo
 
 const initialAmount = document.getElementById("initial-amount")
 const years = document.getElementById("years")
